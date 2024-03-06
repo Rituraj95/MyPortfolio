@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from '../assets/avatar.png'
+
 import {FaGithub, FaLinkedin} from 'react-icons/fa'
 import {TypeAnimation} from 'react-type-animation' 
 import { Link } from 'react-scroll';
@@ -9,12 +9,12 @@ const Banner = () => {
         window.open('#', '_blank');
       };
       const handleButtonClick2 = () => {
-        window.open('#', '_blank');
+        window.open('https://www.linkedin.com/in/rituraj-deka-b22172216/', '_blank');
       };
       const handleButtonClick3 = () => {
-        window.open('#', '_blank');
+        window.open(' https://github.com/Rituraj95', '_blank');
       };
-
+     
 
   return <section className='min-h-[55vh] lg:min-h-[83vh] flex items-center mb-8 lg:mb-8' id='home'>
     <div className='container mx-auto'>
