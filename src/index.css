@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  background: #ea4747;
+  
+  box-shadow: 0px 4.42184px 107.23px rgba(240, 65, 17, 0.51);
+}
+.loading-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:120vh;
+}
+
+
+
+.img {
+  -webkit-filter: drop-shadow(12px 12px 30px rgba(219, 66, 66, 0.5));
+         filter: drop-shadow(12px 12px 30px rgba(248, 9, 9, 0.5));
+}
+
+.btn:hover {
+  background: #c90939;
+  box-shadow: 0px 4.42184px 107.23px rgba(240, 65, 17, 0.51);
+}
+
+.gradient {
+  background: #f05050
+}
+.active {
+  background: #470d25;
+  color: #ffffff;
+  padding: 1rem;
+  border-radius: 100%;
+}
+
+@layer base {
+  body {
+    @apply font-secondary text-lg leading-8 text-white;
+  }
+  .h2 {
+    @apply font-primary text-[32px] mb-6 tracking-[10%] uppercase;
+  }
+  .h3 {
+    @apply font-primary font-semibold text-[26px] mb-6 leading-[46px];
+  }
+  .btn {
+    @apply rounded-xl font-primary text-white font-medium;
+  }
+  .btn-sm {
+    @apply h-[48px] px-6 text-sm;
+  }
+  .btn-lg {
+    @apply h-[56px] px-10 text-base;
+  }
+  .btn-link {
+    @apply text-base;
+  }
+  .text-gradient {
+    @apply bg-gradient-to-r text-transparent bg-clip-text from-[#fa185c] to-[#fa1818] font-bold font-primary hover:from-[#fa1818] hover:to-[#fa185c];
+  }
+  .section {
+    @apply py-2 lg:py-2 md:mb-20 flex items-center;
+  }
+  
+}
