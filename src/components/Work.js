@@ -40,8 +40,7 @@ I have created a portfolio website using HTML, Tailwind CSS, and ReactJS. This w
           <div className='flex flex-col lg:flex-row lg:justify-between my-6 lg:my-10 '>
           <div className='lg:flex flex-col text-left sm:hidden'>
             <h2 className='h2 text-accent'>Panjika-An assamese calender</h2>
-            <p className='max-w-md font-medium'>The project I developed is a YouTube clone created using React, HTML, and CSS. I leveraged various tools and concepts such as React Router to handle navigation within the application. 
-            Additionally, I integrated the YouTube API, which allowed me to fetch real-time data from YouTube, enabling users to access the latest videos, view likes and other relevant information.
+            <p className='max-w-md font-medium'>An Assamese month calender using React which provide details of each days.
             </p></div>  
           <div className='group relative h-full lg:h-80 w-full lg:w-1/2 overflow-hidden border-2 border-black/50 rounded-xl'>
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
@@ -65,16 +64,14 @@ I have created a portfolio website using HTML, Tailwind CSS, and ReactJS. This w
         </div>
         <div className='flex flex-col text-right sm:hidden'>
             <h2 className='h2 text-accent'>Aikdhi India</h2>
-            <p className='max-w-md font-medium'>GameSite is an online platform that offers valuable insights from the gaming industry. It provides information on new game trailers and direct links to the official websites, all conveniently located in one place. Built using Html5, React JS, and the Chakra UI library, 
-            GameSite delivers a seamless user experience for gaming enthusiasts seeking the latest updates and easy access to their favorite game site.</p>
+            <p className='max-w-md font-medium'>I have developed frontend layout of Aikdhi India official Website.</p>
         </div>
         </div>
         </div>
         <div className='flex flex-col lg:flex-row lg:justify-between my-6 lg:my-10 '>
           <div className='lg:flex flex-col text-left sm:hidden'>
             <h2 className='h2 text-accent'>Speech to Text Converter</h2>
-            <p className='max-w-md font-medium'>The project I developed is a YouTube clone created using React, HTML, and CSS. I leveraged various tools and concepts such as React Router to handle navigation within the application. 
-            Additionally, I integrated the YouTube API, which allowed me to fetch real-time data from YouTube, enabling users to access the latest videos, view likes and other relevant information.
+            <p className='max-w-md font-medium'>The project I developed is a Speech to text Converter created using React, HTML, and CSS.Speech-to-Text Converter project aims to develop a software application that can accurately convert spoken words into written text in real-time
             </p></div>  
           <div className='group relative h-full lg:h-80 w-full lg:w-1/2 overflow-hidden border-2 border-black/50 rounded-xl'>
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
