@@ -1,10 +1,5 @@
 {
   "name": "portfolio",
-<<<<<<< HEAD
-  "homepage": "https://rituraj95.github.io/MyPortfolio/",
-=======
-  "homepage": "https://rituraj95.github.io/MyPortfolio"
->>>>>>> a7d32fbdcbd175bae0a93c3550c5fde7c2724b80
   "version": "0.1.0",
   "private": true,
   "dependencies": {
