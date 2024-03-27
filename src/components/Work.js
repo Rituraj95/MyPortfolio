@@ -46,9 +46,9 @@ I have created a portfolio website using HTML, Tailwind CSS, and ReactJS. This w
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img className='group-hover:scale-125 transition-all duration-500' src={Img2} alt=''/>
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-40'>
-              <a className='text-3xl text-white underline decoration-rose-500' href='#'>Demo</a></div>
+              <a className='text-3xl text-white underline decoration-rose-500' href='https://fancy-bienenstitch-bdd6ae.netlify.app/'>Demo</a></div>
             <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-40'>
-              <a className='text-gradient underline decoration-white' href='#'>Code</a>
+              <a className='text-gradient underline decoration-white' href='https://github.com/Rituraj95/panjika-assamese-calender'>Code</a>
             </div>
         </div>
         </div>
@@ -77,9 +77,9 @@ I have created a portfolio website using HTML, Tailwind CSS, and ReactJS. This w
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img className='group-hover:scale-125 transition-all duration-500' src={Img4} alt=''/>
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-40'>
-              <a className='text-3xl text-white underline decoration-rose-500' href='#'>Demo</a></div>
+              <a className='text-3xl text-white underline decoration-rose-500' href='https://65905257929bea888585f89c--hilarious-griffin-b4e51c.netlify.app/'>Demo</a></div>
             <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-40'>
-              <a className='text-gradient underline decoration-white' href='#'>Code</a>
+              <a className='text-gradient underline decoration-white' href='https://github.com/Rituraj95/speech-to-text-converter'>Code</a>
             </div>
         </div>
         </div>
