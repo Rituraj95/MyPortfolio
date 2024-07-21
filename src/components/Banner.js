@@ -6,7 +6,9 @@ import { Link } from 'react-scroll';
 
 const Banner = () => {
     const handleButtonClick = () => {
+
         window.open('https://drive.google.com/file/d/109MAjyl3PzvMBqFxJK5C62TJPzVWLkjQ/view?usp=sharing', '_blank');
+
       };
       const handleButtonClick2 = () => {
         window.open('https://www.linkedin.com/in/rituraj-deka-b22172216/', '_blank');
