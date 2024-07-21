@@ -53,6 +53,18 @@ const Services = () => {
       <div className='flex flex-col'>
       <h2 className='h2 text-accent underline'>Experience</h2>
       <ul className="flex flex-col space-y-2">
+      <li className="flex items-start">
+          <div className="w-2 h-2 bg-red-500 rounded-full mt-1"></div>
+          <div className="ml-2 border-l border-red-500 pl-4">
+          <div className="flex items-center mb-6">
+        <div className="w-full">
+          <h3 className="text-lg font-bold">XopunTech(India) pvt Limited</h3>
+          <p className="text font-semibold">Software developer Intern</p>
+          <p className="text font-semibold">June 2024 - july 2024</p>
+        </div>
+      </div>
+          </div>
+        </li>
         <li className="flex items-start">
           <div className="w-2 h-2 bg-red-500 rounded-full mt-1"></div>
           <div className="ml-2 border-l border-red-500 pl-4">
@@ -60,7 +72,7 @@ const Services = () => {
         <div className="w-full">
           <h3 className="text-lg font-bold">VrixaaLabs</h3>
           <p className="text font-semibold">React developer Intern</p>
-          <p className="text font-semibold">January 2024 - Ongoing</p>
+          <p className="text font-semibold">January 2024 - August 2024</p>
         </div>
       </div>
           </div>
