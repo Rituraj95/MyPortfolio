@@ -1,7 +1,7 @@
 import React from 'react';
 import Img1 from '../assets/projec2.png'
 import Img2 from '../assets/project1.jpg'
-import Img3 from '../assets/project4.jpg'
+import Img3 from '../assets/Project4.png'
 import Img4 from '../assets/project5.jpg'
 
 
@@ -57,14 +57,14 @@ I have created a portfolio website using HTML, Tailwind CSS, and ReactJS. This w
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img className='group-hover:scale-125 transition-all duration-500' src={Img3} alt=''/>
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-40'>
-              <a className='text-3xl text-white underline decoration-rose-500' href='#'>Demo</a></div>
+              <a className='text-3xl text-white underline decoration-rose-500' href='https://resume-maker-dusky.vercel.app/'>Demo</a></div>
             <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-40'>
-              <a className='text-gradient underline decoration-white' href='#'>Code</a>
+              <a className='text-gradient underline decoration-white' href='https://github.com/Rituraj95/ResumeMaker'>Code</a>
             </div>
         </div>
         <div className='flex flex-col text-right sm:hidden'>
-            <h2 className='h2 text-accent'>Aikdhi India</h2>
-            <p className='max-w-md font-medium'>I have developed frontend layout of Aikdhi India official Website.</p>
+            <h2 className='h2 text-accent'>RsumeGen</h2>
+            <p className='max-w-md font-medium'>User can create thier eye catching resume within a minutes with downloading features.Integrate firebase and chatbots</p>
         </div>
         </div>
         </div>
